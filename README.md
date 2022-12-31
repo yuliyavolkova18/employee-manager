@@ -21,3 +21,26 @@ UI made with Java AWT and Swing Toolkit.
  - mysql-connector-java-8.0.25.jar
  - rs2xml.jar
  - DateChooser.jar
+
+*Tables in phpmyadmin in MAMP created in employee_management database**
+login_details
+| # | Name | Type | Null |
+|--|--|--|--|
+| 1 | user_id | int(11) | no
+| 2 | username | varchar(50) | no
+| 3 | password | varchar(50) | no
+
+employee_table
+| # | Name | Type | Null |
+|--|--|--|--|
+| 1 | id | int(11) | no
+| 2 | first_name | text | no
+| 3 | last_name | text | no
+| 4 | position | varchar(100) | no
+| 5 | base_salary | decimal(5,0) | no
+
+absent_table
+| # | Name | Type | Null |
+|--|--|--|--|
+| 1 | id | int(11) | no
+| 2 | date | date | no
