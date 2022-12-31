@@ -1,5 +1,5 @@
 # employee-manager
---
+
 **About**
 
 Java applet completed in July of 2021 in Apache Netbeans 12.4 to practice SQL queries and basic UI development. 
