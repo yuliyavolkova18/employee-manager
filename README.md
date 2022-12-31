@@ -22,7 +22,8 @@ UI made with Java AWT and Swing Toolkit.
  - rs2xml.jar
  - DateChooser.jar
 
-*Tables in phpmyadmin in MAMP created in employee_management database**
+**Tables in phpmyadmin in MAMP created in employee_management database**
+
 login_details
 | # | Name | Type | Null |
 |--|--|--|--|
